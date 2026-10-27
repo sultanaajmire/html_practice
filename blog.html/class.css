@@ -1,0 +1,6 @@
+body { font-family: sans-serif; padding: 8px; }
+.card { border: 1px solid #ddd; border-radius: 8px; padding: 8px 14px; margin-bottom: 8px; }
+.card-title { margin: 0; color: #0c6b58; }
+.badge { background: #0c6b58; color: white; padding: 2px 8px; border-radius: 99px; font-size: 12px; }
+.badge.draft { background: #999; }   /* element with BOTH classes */
+#special-message { color: #b5542a; }
